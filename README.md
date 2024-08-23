@@ -39,3 +39,13 @@ c) Charts are embedded into the Tkinter window using FigureCanvasTkAgg, with the
 
 5. Running the Application:
 The root.mainloop() function initiates the Tkinter event loop, displaying the dashboard and keeping the application running until the user closes it.
+
+
+#How to run
+1. Ensure you have the required libraries installed: Install them by the command "pip install matplotlib tkinter" typed into the terminal
+
+2. Place the data.py file in the same directory as this script, ensuring it contains the datasets: sales_data, inventory_data, product_data, sales_year_data, inventory_month_data.
+
+3. Run the script: python dashboard.py
+   This will open a window displaying the dashboard with all five charts.
+
