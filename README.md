@@ -49,3 +49,7 @@ The root.mainloop() function initiates the Tkinter event loop, displaying the da
 3. Run the script: python dashboard.py
    This will open a window displaying the dashboard with all five charts.
 
+
+# Tkinter Dashboard
+![image](https://github.com/user-attachments/assets/3b250c06-1e20-48eb-a5af-33bd9012c785)
+
