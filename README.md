@@ -56,5 +56,5 @@ The root.mainloop() function initiates the Tkinter event loop, displaying the da
 
 # Reference Video
 https://youtu.be/2JjQIh-sgHU?si=Kl9-Vjslve59b3L6
-All thanks to @codefirstio (Code First with Hala) for a great tutorial!
+
 
